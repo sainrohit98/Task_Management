@@ -25,7 +25,7 @@ This project is a simple Task Management API built using Django and Django REST 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/task_management.git
+    git clone https://github.com/sainrohit98/Task_Management.git
     cd task_management
     ```
 
